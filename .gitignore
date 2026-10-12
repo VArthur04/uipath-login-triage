@@ -1,0 +1,15 @@
+# UiPath Studio local build/cache files
+.local/
+.screenshots/
+.settings/
+.tmh/
+*.nupkg
+
+# Studio-generated agent notes (not part of the bot)
+AGENTS.md
+CLAUDE.md
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
